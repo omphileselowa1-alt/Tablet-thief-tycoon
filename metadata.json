@@ -1,0 +1,7 @@
+{
+  "name": "Tablet Theft Tycoon",
+  "description": "A tycoon game where you steal tablets, buy upgrades, and manage your criminal empire.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
